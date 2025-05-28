@@ -1,0 +1,144 @@
+{
+    "os": "Linux-5.15.167.4-microsoft-standard-WSL2-x86_64-with-glibc2.39",
+    "python": "3.9.15",
+    "heartbeatAt": "2025-05-28T02:27:35.393046",
+    "startedAt": "2025-05-28T02:27:32.920396",
+    "docker": null,
+    "cuda": null,
+    "args": null,
+    "state": "running",
+    "program": "src/eda/eda.ipynb",
+    "root": "/home/mcan128/Project-Build-an-ML-Pipeline-Starter",
+    "git": {
+        "remote": "https://github.com/mcan128/Project-Build-an-ML-Pipeline-Starter.git",
+        "commit": "3cfce8872b5390da41166da4be403cd360a4f2db"
+    },
+    "email": null,
+    "host": "Fattman734",
+    "username": "mcan128",
+    "executable": "/home/mcan128/miniconda3/envs/nyc_airbnb_dev/bin/python",
+    "cpu_count": 10,
+    "cpu_count_logical": 20,
+    "cpu_freq": {
+        "current": 2918.3989999999994,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2918.399,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2918.399,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2918.399,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2918.399,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2918.399,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2918.399,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2918.399,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2918.399,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2918.399,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2918.399,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2918.399,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2918.399,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2918.399,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2918.399,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2918.399,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2918.399,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2918.399,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2918.399,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2918.399,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2918.399,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "total": 1006.853931427002,
+        "used": 15.245685577392578
+    },
+    "gpu": "NVIDIA GeForce RTX 3070 Ti Laptop GPU",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 3070 Ti Laptop GPU",
+            "memory_total": 8589934592
+        }
+    ],
+    "memory": {
+        "total": 7.6077728271484375
+    }
+}

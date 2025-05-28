@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mcan128/Project-Build-an-ML-Pipeline-Starter/mlruns/0/7c924bbae6c2438a9f22fe6d0328417f/artifacts
+end_time: 1748398912213
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7c924bbae6c2438a9f22fe6d0328417f
+run_name: incongruous-lamb-685
+run_uuid: 7c924bbae6c2438a9f22fe6d0328417f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748398862745
+status: 4
+tags: []
+user_id: mcan128

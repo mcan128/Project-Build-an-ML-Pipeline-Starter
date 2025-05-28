@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mcan128/Project-Build-an-ML-Pipeline-Starter/mlruns/0/72e9682b8b094157a2f299fae545e8fd/artifacts
+end_time: 1748399094317
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 72e9682b8b094157a2f299fae545e8fd
+run_name: melodic-foal-877
+run_uuid: 72e9682b8b094157a2f299fae545e8fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748399012262
+status: 3
+tags: []
+user_id: mcan128

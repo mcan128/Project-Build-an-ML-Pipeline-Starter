@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mcan128/Project-Build-an-ML-Pipeline-Starter/mlruns/0/4df0c318360a4a359d68d0c0fcd94f1e/artifacts
+end_time: 1748399094181
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4df0c318360a4a359d68d0c0fcd94f1e
+run_name: glamorous-duck-617
+run_uuid: 4df0c318360a4a359d68d0c0fcd94f1e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748399018781
+status: 3
+tags: []
+user_id: mcan128
